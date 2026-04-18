@@ -19,8 +19,13 @@
 	"17": { "name": "Kuroki", "isVisible": true },
 	"18": { "name": "Lumii", "isVisible": true },
 	"19": { "name": "Necrochik", "isVisible": true },
-	"20": { "name": "Qrrpt", "isVisible": true },
+	"20": { "name": "", "isVisible": false },
 	"21": { "name": "RavingMidnight", "isVisible": true },
 	"22": { "name": "Toki", "isVisible": true },
-	"23": { "name": "Troble", "isVisible": true }
+	"23": { "name": "", "isVisible": false },
+	"24": { "name": "", "isVisible": false },
+	"25": { "name": "Troble", "isVisible": true },
+	"26": { "name": "Qrrpt", "isVisible": true },
+	"27": { "name": "", "isVisible": false },
+	"28": { "name": "", "isVisible": false }
 }
