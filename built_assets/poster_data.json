@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-05-02T06:05:40.679639+00:00",
+  "buildTime": "2026-05-09T03:40:59.638332+00:00",
   "atlasCount": 4,
   "posters": {
     "0": {
@@ -107,8 +107,8 @@
       ]
     },
     "8": {
-      "name": "",
-      "isVisible": false,
+      "name": "WolfgangZag",
+      "isVisible": true,
       "atlasIndex": 1,
       "uvOffset": [
         0.0,
